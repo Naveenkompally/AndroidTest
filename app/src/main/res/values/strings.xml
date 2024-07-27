@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlogorithamTask</string>
+   <!-- <string-array name="rules_array">
+        <string name="Odd_Numbers">Odd Numbers</string>
+        <string name="even_Numbers">Even Numbers</string>
+        <string name="prime_Numbers">Prime Numbers</string>
+        <string name="fibonacci_Numbers">Fibonacci sequence</string>
+    </string-array>-->
+</resources>
